@@ -1,0 +1,1 @@
+[{"date":"03/12/2019","data":"Dollar : 4.1954 || Euro : 4.646 || Pound Sterling : 5.4893 || Argentine Peso : 0.0701 || Bitcoin : 33240.117"},{"date":"04/12/2019","data":"Dollar: 4.1934 | Euro: 4.6442 | Pound Sterling: 5.4904 | Argentine Peso: 0.0702 | Bitcoin: 33210.136"}]
